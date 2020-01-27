@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\weszty\\Documents\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {}
+    "C:\\Users\\weszty\\Documents\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\weszty\\Documents\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {
+    "C:\\Users\\weszty\\Documents\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\weszty\\Documents\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+        "projectUniqueName": "C:\\Users\\weszty\\Documents\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "c:\\Users\\weszty\\Documents\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+        "projectPath": "C:\\Users\\weszty\\Documents\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\weszty\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\weszty\\Documents\\DatingApp\\DatingApp.API\\obj\\",
+        "outputPath": "C:\\Users\\weszty\\Documents\\DatingApp\\DatingApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -43,6 +43,10 @@
         "netcoreapp3.0": {
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
               "version": "[3.0.0, )"
             },
