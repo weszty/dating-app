@@ -4,3 +4,7 @@
 *.dll
 *.txt
 *.pdb
+.vscode
+bin
+obj
+*.db
